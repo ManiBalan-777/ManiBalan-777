@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manibalan-777&label=Profile%20views&color=0e75b6&style=flat" alt="manibalan-777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manibalan-777" alt="manibalan-777" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw03384oNlELWhhvUaJeItDt&ust=1693559666560000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKCS58XHhoEDFQAAAAAdAAAAABAD">
+<img align="right corner" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw03384oNlELWhhvUaJeItDt&ust=1693559666560000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKCS58XHhoEDFQAAAAAdAAAAABAD">
 - 📫 How to reach me **jayabalan2475@gmail.com**
 
 - ⚡ Fun---**I am JOLLY TYPE😜**
