@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Iam ManiBalan</h1>
+<h1 align="center">WELCOME To MY SITE 👋, Iam ManiBalan</h1>
 <h3 align="center">web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manibalan-777&label=Profile%20views&color=0e75b6&style=flat" alt="manibalan-777" /> </p>
@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FSTRh&psig=AOvVaw3mZSwIuc3DYqf3fP4PReRr&ust=1693559410424000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLDlhszGhoEDFQAAAAAdAAAAABAD.gif>
 - 📫 How to reach me **jayabalan2475@gmail.com**
 
-- ⚡ Fun fact **I am funny😜**
+- ⚡ Fun fact **I am JOLLY TYPE😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
