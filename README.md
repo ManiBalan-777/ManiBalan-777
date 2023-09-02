@@ -7,10 +7,9 @@
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=manibalan-777" alt="manibalan-777" /></a> </p>
 <img align="right" alt="Working" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3VbmSGn1oKqfvGiPEMXzfU&ust=1693621408013000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCD7setiIEDFQAAAAAdAAAAABAe">
--HOW TO CONTACT ME 📞 --- <a href="mailto:jayabalan2475@gmail.com">jayabalan2475@gmail.com</a>
-\n
--MY GITUP ACCOUNT  🔗 --- <a href="https://github.com/ManiBalan-777">ManiBalan-777</a>
--MY LINKEDIN ACCOUNT 🔗 -- <a href="https://github.com/ManiBalan-777">ManiBalan-777</a>
+-HOW TO CONTACT ME 📞 --- <a href="mailto:jayabalan2475@gmail.com">jayabalan2475@gmail.com                                                                     </a>
+-MY GITUP ACCOUNT  🔗 --- <a href="https://github.com/ManiBalan-777">ManiBalan-777                                                                             </a>
+-MY LINKEDIN ACCOUNT 🔗 -- <a href="https://github.com/ManiBalan-777">ManiBalan-777                                                                            </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
