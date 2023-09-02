@@ -25,7 +25,7 @@
             
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manibalan-777&label=Profile%20views&color=red&style=flat" alt="manibalan-777" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=manibalan-777&label=Profile%20views&color=green&style=flat" alt="manibalan-777" width="400"  /> </p>
 <hr>
  🏆 GitHub Trophies
 
