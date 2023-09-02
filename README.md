@@ -34,7 +34,7 @@
  🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manly___mani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-balan-2b5628289/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@redking4622) 
-[![mail](https://img.shields.io/badge/Mail-%230077B5?logo=Mail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
+[![mail](https://img.shields.io/badge/Mail-%230077B5?logo=Mail&logoColor=white)]( href="mailto:jayabalan2475@gmail.com")
 [![GITUP](https://img.shields.io/badge/Gitup-%23E4405F?logo=Gitup&logoColor=white)](https://github.com/ManiBalan-777)
  
 <hr>
