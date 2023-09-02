@@ -1,12 +1,24 @@
 <h1 align="center">WELCOME To MY SITE 👋, Iam ManiBalan</h1>
 
 <h3 align="center">web developer</h3>
+<p>
+            <h3>🤖ABOUT ME:</h3>
+            <p>
+                       😇 I AM MANIBALAN 
+                        
+                        👨🏻‍💻I AM CURRENTLY 👨🏽‍🎓STUDYING 🏫III YEAR 💻💻💻COMPUTER SCIENCE AND ENGINEERING 
+                        
+                        NOW I AM 📖LEARNING FULL STACK DEVELOPING 
+                        
+            </p>
+            
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manibalan-777&label=Profile%20views&color=&style=flat" alt="manibalan-777" /> </p>
+ 🏆 GitHub Trophies
 
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=manibalan-777" alt="manibalan-777" /></a> </p>
-<img align="right" alt="Working" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3VbmSGn1oKqfvGiPEMXzfU&ust=1693621408013000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCD7setiIEDFQAAAAAdAAAAABAe">
+![](https://github-profile-trophy.vercel.app/?username=ManiBalan-777&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 -HOW TO CONTACT ME 📞 --- <a href="mailto:jayabalan2475@gmail.com">jayabalan2475@gmail.com                                                                     </a>
 -MY GITUP ACCOUNT  🔗 --- <a href="https://github.com/ManiBalan-777">ManiBalan-777                                                                             </a>
 -MY LINKEDIN ACCOUNT 🔗 -- <a href="https://github.com/ManiBalan-777">ManiBalan-777                                                                            </a>
@@ -49,8 +61,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManiBalan-777&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiBalan-777&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ManiBalan-777&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
