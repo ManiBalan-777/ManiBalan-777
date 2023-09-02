@@ -2,20 +2,23 @@
 
 <h3 align="center">web developer</h3>
 
-<img align="right" alt="LOADING" width="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-<img align="right" alt="LOADING" width="250" height="200"src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="left" alt="LOADING" width="200" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="LOADING" width="400" height="200"src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 
 
 
-<p>
+<p align ="center">
             <hr>
             <h3>            🤖ABOUT ME:</h3> 
             <hr>
-           <p>            😇 I AM MANIBALAN </p>
-             <p> 👨🏻‍💻I AM CURRENTLY 👨🏽‍🎓STUDYING 🏫III YEAR 💻💻💻COMPUTER SCIENCE AND ENGINEERING  </p>          
-               <p>NOW I AM 📖LEARNING FULL STACK DEVELOPING </p>    
-               <p>CONTACT ME WITH:📞 <a href="mailto:jayabalan2475@gmail.com">jayabalan2475@gmail.com                                                                     </a></p>
+           <p>           <h4  align ="center"> 😇 I AM MANIBALAN </h4></p>
+           <br/>
+            <br/>
+             <br/>
+             <p align ="leftcenter"> 🚫 👨🏻‍💻I AM CURRENTLY 👨🏽‍🎓STUDYING 🏫III YEAR 💻💻💻COMPUTER SCIENCE AND ENGINEERING  </p>          
+             <p align ="leftcenter"> 🚫 NOW I AM 📖LEARNING FULL STACK DEVELOPING </p>    
+             <p align ="leftcenter"> 🚫 CONTACT ME WITH:📞 <a href="mailto:jayabalan2475@gmail.com">jayabalan2475@gmail.com                                                                     </a></p>
      </p>                   
                         
           
