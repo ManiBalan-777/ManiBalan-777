@@ -70,7 +70,5 @@
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ManiBalan-777&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
