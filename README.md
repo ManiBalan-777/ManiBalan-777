@@ -2,7 +2,7 @@
 
 <h3 align="center">web developer</h3>
 
-<img align="right" alt="LOADING" width="400" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="LOADING" width="400" height="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 <!-- <img align="right" alt="LOADING" width="400" height="200"src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
 
