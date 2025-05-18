@@ -10,7 +10,7 @@
             <h3>            🤖ABOUT ME:</h3> 
             <hr> -->
    <h3>ABOUT ME:</h3> 
-           <p>           <h4> 😇 I AM MANIBALAN PASSIONATE SOFTWARE DEVELOPER FRESHER </h4> </p>
+           <p>           <h4> I AM MANIBALAN PASSIONATE SOFTWARE DEVELOPER FRESHER </h4> </p>
 <!--            <br/>
             <br/>
              <br/> -->
